@@ -1,0 +1,621 @@
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.Cache
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csprojResolveAssemblyReference.cache
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.cache
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.compiled
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.Cache
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.cache
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ALANDO\Dropbox\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\ALANDO\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\ALANDO\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\NewUser\Documents\Visual Studio 2015\Projects\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.Cache
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.Cache
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jonathan Charles-Pie\Dropbox\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.compiled
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.Cache
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\RdlCompile.cache
+C:\Users\JACQUESSINOT\Downloads\supermercado\Supermercado\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csprojAssemblyReference.cache
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.cache
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CopyComplete
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\Hospital Licey\Desktop\supermercado3\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csprojAssemblyReference.cache
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.cache
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\RdlCompile.cache
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\EnvDTE.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\stdole.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\EnvDTE80.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\VSLangProj.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\VSLangProj80.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\VSLangProj2.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Hospital Licey\Desktop\copia 1\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CopyComplete
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\EnvDTE.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\stdole.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\EnvDTE80.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\VSLangProj.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\VSLangProj80.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\VSLangProj2.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csprojAssemblyReference.cache
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.cache
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\RdlCompile.cache
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CopyComplete
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\Hospital Licey\Desktop\BACKUP\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.pdb
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.exe.config
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.exe
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.pdb
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\EnvDTE.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\stdole.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.MSXML.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csprojAssemblyReference.cache
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.cache
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\RdlCompile.cache
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\RdlCompile.compiled
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CoreCompileInputs.cache
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CopyComplete
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.exe
+E:\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\EnvDTE.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\stdole.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csprojAssemblyReference.cache
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.cache
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\RdlCompile.cache
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.csproj.CopyComplete
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Form2.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturas.resources
+C:\Users\Bryan Reyes\Desktop\copia 1 sin diseno\supermercado3\Supermercado\obj\x86\Debug\Supermercado.Procesos.Compras.resources

@@ -1,0 +1,67 @@
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.Cache
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csprojResolveAssemblyReference.cache
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.cache
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.compiled
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+D:\Mes Programmations\Projets Orienter\C#\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Articulos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Clientes.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Dpartamentos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Suplidores.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Consultas.Usuarios.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Login.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu2.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Menu3.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Inicio.Splash.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Articulos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Clientes.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Departamentos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Suplidores.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Mantenimientos.Usuarios.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Procesos.Factura.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Properties.Resources.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Articulos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Clientes.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Departamentos.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Facturrraass.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.PrincipalReporte.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Suplidores.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.Reportes.Usuarios.resources
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.csproj.GenerateResource.Cache
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.cache
+C:\Users\Michel\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ALANDO\Dropbox\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\ALANDO\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.exe
+C:\Users\ALANDO\Dropbox\Supermercado\Supermercado\Supermercado\obj\x86\Debug\Supermercado.pdb
